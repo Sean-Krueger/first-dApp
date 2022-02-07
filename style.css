@@ -1,0 +1,14 @@
+body {
+  display:flex; flex-direction:column; justify-content:center;
+  min-height:50vh;
+  max-width: max-content;
+    margin: auto;
+}
+.button-line {
+    display: inline;
+    float: left;
+}
+
+#moodChange{
+  padding: 5px;
+}
